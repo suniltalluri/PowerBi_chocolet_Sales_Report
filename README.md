@@ -4,7 +4,7 @@
 A short but clear description of what this project does.  
 e.g., “This repository holds the data model and visuals created in Power BI to analyse [your topic]. The interactive report is hosted online, and you’re free to explore it.”
 
-![Screenshot](PowerBi_chocolet_Sales_Report/AwsomeCocolateAnalysis/ReportScreenshot.png)
+![Screenshot](AwsomeCocolateAnalysis/ReportScreenshot.png)
 
 
 ## Live Report  
