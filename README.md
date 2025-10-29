@@ -1,5 +1,4 @@
 # PowerBi_chocolet_Sales_Report
-# Project Name Here
 
 ## Description  
 A short but clear description of what this project does.  
@@ -15,7 +14,3 @@ Check out the interactive version of the report here:
 - Data sources (e.g., Excel, SQL, etc — fill in)  
 - Version control via GitHub  
 
-## Installation / Setup  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
