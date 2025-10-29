@@ -1,0 +1,14 @@
+In Power BI, a KPI (Key Performance Indicator) is a visual and metric used to measure performance against a specific goal or target.
+
+TOTAL SALES
+TOTAL BOXES
+TOTAL SHIPMENTS
+TOTAL COSTS
+TOTAL PROFITS
+PROFIT %
+LBS COUNT(LOW BOX SHIPMENTS)
+LBS %
+
+MOM 
+YOY
+
